@@ -12,4 +12,4 @@ Thanks for checking out this front-end coding challenge.
 
 # Live Page
 
-##https://chimaobi-01.github.io/order-summary-component-main/
+## https://chimaobi-01.github.io/order-summary-component-main/
